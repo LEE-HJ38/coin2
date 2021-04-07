@@ -35,6 +35,9 @@ body {
     #article{
       padding-left: 13px;
     }
+    #망해라{
+      font-size: 100px
+    }
     @media(max-width:510px){
       #grid{
         display: block;
@@ -45,4 +48,5 @@ body {
       h1 {
       border-bottom: 4px solid #BC8F8F;
     }
+
     }
